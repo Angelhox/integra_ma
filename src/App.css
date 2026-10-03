@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mar-yellow-500: #feee13;
+  --color-original-yellow-500: #FEDD00;
+  --color-sweet-yellow-500: #F5B010;
+
+  --color-brand-yellow-50: '#FFFBE6';
+  /* Fondos de alerta o selección*/
+  --color-brand-yellow-300: #FFE566;
+  /* Bordes sutiles*/
+  --color-brand-yellow-500: #FFD300;
+  /* TU COLOR BASE*/
+  --color-brand-yellow-600: #E6BE00;
+  /* HOVER (un poco más saturado/oscuro)*/
+  --color-brand-yellow-700: #B39400;
+  /* Presionado / Active*/
+  --color-brand-blue-50: #E6E9EE;
+  /* Fondos muy claros*/
+  --color-brand-blue-300: #66799A;
+  /* Textos secundarios*/
+  --color-brand-blue-500: #002058;
+  /* TU COLOR BASE*/
+  --color-brand-blue-600: #001A47;
+  /* HOVER (más profundo)*/
+  --color-brand-blue-700: #001336;
+  /* Muy oscuro para contrastes fuertes*/
+  --color-brand-silver-100: #F2F2F1;
+  /* Fondo de inputs*/
+  --color-brand-silver-300: #C2C4C1;
+  /* Bordes de inputs*/
+  --color-brand-silver-500: #939591;
+  /* TU COLOR BASE*/
+  --color-brand-silver-700: #6D6F6C;
+  /* Texto gris oscuro*/
+  --color-brand-silver-900: #3D3E3C;
+  /* Casi negro*/
+
+}
